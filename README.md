@@ -3,4 +3,10 @@
 
 
 
-# Title: Machine Learning Risk Estimation and Techniques for Death from Use of COVID-19 Tested Residents in Continuing Care Facilities using Administrative Data. 
+# Title: Machine Learning Risk Estimation and Prediction of Death in Continuing Care Facilities using Administrative Data.
+
+<pr>
+In this study, we aimed to identify the factors that were associated with mortality among continuing care residents in Alberta, during coronavirus disease 2019 (COVID-19) pandemic. Then, we examined pre-processing methods in terms of prediction performance. Finally, we developed several machine learning models and compared the results of these models in terms of performance. We conducted a retrospective cohort study of all continuing care residents in Alberta, Canada, from March 1, 2020, to March 31, 2021. We used a univariate and a multivariate logistic regression (LR) model to identify predictive factors of 60-day mortality by estimating odds ratios (ORs) with a 95% of a confidence interval. To determine the best sensitivity-specificity cut-off point, the Youden index was employed. We examined the pre-processing methods and then developed several machine learning models to acknowledge the best model regarding performance. In this cohort study, increased age, male sex, symptoms, previous admissions, and some specific comorbidities were associated with mortality. Machine learning and pre-processing approaches offer an assuring method for improving risk prediction for mortality, but more work is needed to show improvement beyond standard risk factors. ![image](https://user-images.githubusercontent.com/38839459/216720495-9ee9c777-6c1d-4648-af0c-2c09d58dc038.png)
+
+</pr>
+
