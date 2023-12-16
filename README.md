@@ -1,7 +1,7 @@
 <a href="https://www.linkedin.com/in/fuzzy-shahidi"><img src="https://img.shields.io/badge/Linkdin-Fuzzy%20Shahidi-blue.svg" alt="DOI"></a>
 
 
-<a href="https://doi.org/10.21203/rs.3.rs-2895528/v1"><img src="https://img.shields.io/badge/Research Square-green.svg" alt="DOI"></a>
+<a href="https://doi.org/10.21203/rs.3.rs-2895528/v1"><img src="https://img.shields.io/badge/springer-nature-red.svg" alt="DOI"></a>
 
 
 
